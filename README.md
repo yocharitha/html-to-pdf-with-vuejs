@@ -12,4 +12,4 @@ npm run serve
 
 
 ### Live Demo
-You can explore live demo of html to pdf conversion from [here](https://vue-export-view-as-pdf.netlify.com/)
+You can explore live demo of html to pdf conversion from [here](https://export-view-as-pdf-with-vuejs.netlify.com)
